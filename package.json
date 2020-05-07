@@ -30,7 +30,6 @@
   },
   "main": "./lib/ref.js",
   "scripts": {
-    "docs": "node docs/compile",
     "test": "nyc mocha -gc"
   },
   "dependencies": {
