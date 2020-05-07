@@ -1,5 +1,5 @@
 {
-  "name": "ref-napi",
+  "name": "@jpruden/ref-napi",
   "description": "Turn Buffer instances into \"pointers\"",
   "engines": {
     "node": ">= 6.0"
